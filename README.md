@@ -7,7 +7,9 @@ There are various problems, challenges and interesting projects.
 Consolidating knowledge and gaining experience in Python is the dream of every programmer.
 
 ## Installation
+
 python -m venv venv
+
 source venv/bin/activate
 
 ## Usage
@@ -19,6 +21,7 @@ source venv/bin/activate
 
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar Silicon Valley</a></i></span>
+
 <span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
 
 # I am very happy about it 🙂.
