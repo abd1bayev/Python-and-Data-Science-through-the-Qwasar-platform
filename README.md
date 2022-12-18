@@ -25,4 +25,4 @@ source venv/bin/activate
 
 # I am very happy about it 🙂.
 
-<img width="350" alt="Снимок экрана 2022-12-17 в 11 28 34" src="https://user-images.githubusercontent.com/99121169/208229364-3b8b40d6-aac2-4b1b-ad08-cd5d625aed3b.png"><img width="350" alt="Снимок экрана 2022-12-18 в 11 30 17" src="https://user-images.githubusercontent.com/99121169/208284852-7a86c9dd-feb7-4013-806e-735a1dd9cbc0.png">
+<img width="350" alt="Снимок экрана 2022-12-17 в 11 28 34" src="https://user-images.githubusercontent.com/99121169/208229364-3b8b40d6-aac2-4b1b-ad08-cd5d625aed3b.png">.                <img width="350" alt="Снимок экрана 2022-12-18 в 11 30 17" src="https://user-images.githubusercontent.com/99121169/208284852-7a86c9dd-feb7-4013-806e-735a1dd9cbc0.png">
