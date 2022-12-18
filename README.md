@@ -1,4 +1,4 @@
-# Welcome to Python Preseason Data
+# Welcome to my Python and Data Science projects.
 ***
 
 ## Description
