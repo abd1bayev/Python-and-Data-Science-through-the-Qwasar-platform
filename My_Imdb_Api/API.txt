@@ -1,0 +1,39 @@
+Technical Description
+Create a backend app with a light web framework. (For python we recommand to use flask.)
+It will listen on port 8080.
+
+All your routes will answer in JSON format!
+
+You don't need to create a database, just parse the provided CSV.
+
+Your backend will serve six routes:
+
+GET on / This route will parse the GET parameter genre, to be able to filter by movie genre.
+Example on how to access this route:
+
+curl "http://localhost:8080?genre=action"
+
+GET on /action This route will only serve action movies.
+Example on how to access this route:
+
+curl "http://localhost:8080/action"
+
+GET on /adventure This route will only serve adventure movies.
+Example on how to access this route:
+
+curl "http://localhost:8080/adventure"
+
+GET on /comedy This route will only serve comedy movies.
+Example on how to access this route:
+
+curl "http://localhost:8080/comedy"
+
+GET on /drama This route will only serve drama movies.
+Example on how to access this route:
+
+curl "http://localhost:8080/drama"
+
+GET on /romance This route will only serve romance movies.
+Example on how to access this route:
+
+curl "http://localhost:8080/romance"
