@@ -12,6 +12,23 @@ python -m venv venv
 
 source venv/bin/activate
 
+## Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+
+## Technologies
+* R 
+* Python
+* PostGres, Sql
+* Pandas, jupyter
+* NumPy
+* Scikit-learn
+* Plotly,Seaborn,Matplotlib
+
+
+
 ## Usage
 ```
 ./my_project argument1 argument2
