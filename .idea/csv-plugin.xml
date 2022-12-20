@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/Data_Science_Qwasar_Platform/Bootcamp_Data_Science/Ds_Quest04/ex00/data_1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data_Science_Qwasar_Platform/Bootcamp_Data_Science/Ds_Quest04/ex00/data_2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Data_Science_Qwasar_Platform/My_Select_Query/ex00/Seasons_Stats.csv">
           <value>
             <Attribute>
