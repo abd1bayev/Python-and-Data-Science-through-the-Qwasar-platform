@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Data_Science_Qwasar_Platform/My_Ds_Babel/all.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Data_Science_Qwasar_Platform/My_Open_The_Iris/iris.csv">
           <value>
             <Attribute>
