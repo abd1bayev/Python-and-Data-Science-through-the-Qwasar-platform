@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Data_Science_Qwasar_Platform/My_Open_The_Iris/iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Data_Science_Qwasar_Platform/My_Select_Query/ex00/Seasons_Stats.csv">
           <value>
             <Attribute>
@@ -31,7 +38,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Downloads/iris.csv">
+        <entry key="$USER_HOME$/Downloads/list_volcano.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
