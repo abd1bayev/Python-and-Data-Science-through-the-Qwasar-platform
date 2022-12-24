@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Data_Science_Qwasar_Platform/My_Ds_Babel/list_volcano.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Data_Science_Qwasar_Platform/My_Open_The_Iris/iris.csv">
           <value>
             <Attribute>
@@ -39,20 +46,6 @@
           </value>
         </entry>
         <entry key="/Python_Qwasar_Platform/My_Imdb_Api/imdb-movie-data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/boston.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/list_volcano.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
