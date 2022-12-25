@@ -13,19 +13,29 @@
         </library>
       </libraries>
     </data-source>
-    <data-source source="LOCAL" name="new_file" uuid="4784ffdb-5eb9-4f5a-a84e-4fbd70fc1e8f">
+    <data-source source="LOCAL" name="all_fault_line" uuid="30bdfa63-000d-4458-a0d7-a63367ac988f">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/Data_Science_Qwasar_Platform/My_M_And_A/new_file</jdbc-url>
+      <jdbc-url>jdbc:sqlite:D:\Projectlar\Django_projectlar\Python-and-Data-Science-through-the-Qwasar-platform\Data_Science_Qwasar_Platform\My_Ds_Babel\all_fault_line.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
+      <libraries>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.39.2/sqlite-jdbc-3.39.2.jar</url>
+        </library>
+      </libraries>
     </data-source>
-    <data-source source="LOCAL" name="All_data.db" uuid="b43b8ad2-735b-4c62-b67f-6051c33e3a86">
+    <data-source source="LOCAL" name="list" uuid="d60609b9-3ebb-4599-8475-142c3e7c6191">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/Data_Science_Qwasar_Platform/My_M_And_A/All_data.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:D:\Projectlar\Django_projectlar\Python-and-Data-Science-through-the-Qwasar-platform\Data_Science_Qwasar_Platform\My_Ds_Babel\list.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
+      <libraries>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.39.2/sqlite-jdbc-3.39.2.jar</url>
+        </library>
+      </libraries>
     </data-source>
   </component>
 </project>
