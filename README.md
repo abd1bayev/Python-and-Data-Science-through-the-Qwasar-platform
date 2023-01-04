@@ -19,13 +19,12 @@ source venv/bin/activate
 * Predictive Modeling
 
 ## Technologies
-* R 
-* Python
-* PostGres, Sql
-* Pandas, jupyter
-* NumPy
+
+* C, Python, Ruby, Javascript, Java
+* PostGres, Sqlite
+* Pandas, NumPy, Jupyter
 * Scikit-learn
-* Plotly,Seaborn,Matplotlib
+* Plotly, Seaborn, Matplotlib
 
 
 
