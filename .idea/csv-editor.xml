@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Data_Science_Qwasar_Platform/My_Mobapp_Studio/data/googleplaystore.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data_Science_Qwasar_Platform/My_Vivino/data/Vivino_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
