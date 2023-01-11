@@ -42,8 +42,9 @@ def bot():
     driver.close()
     # alert = Alert(driver)
     # alert.accept()
-    while (True):
+###########################
+      while (True):
         pass
-
+###########################
 
 bot()
