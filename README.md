@@ -21,7 +21,7 @@ source venv/bin/activate
 ## Technologies
 
 * C, Python, Ruby, Javascript, Java
-* PostGres, Sqlite
+* Postgres, Sqlite
 * Pandas, NumPy, Jupyter
 * Scikit-learn
 * Plotly, Seaborn, Matplotlib
