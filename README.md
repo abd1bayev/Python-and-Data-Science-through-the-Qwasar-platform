@@ -1,6 +1,9 @@
 # Welcome to my Python and Data Science projects.
 ***
 
+<img src="https://komarev.com/ghpvc/?username=abd1bayev&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="abd1bayev" />
+
+
 ## Description
 A great program for those just starting out in programming. 
 There are various problems, challenges and interesting projects. 
