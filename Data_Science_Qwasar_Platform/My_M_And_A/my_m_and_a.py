@@ -8,7 +8,7 @@ filterwarnings("ignore")
 
 
 def first_ds(param_1):
-    if len(param_1.getvalue()) > len('/Users/student/Desktop/Kerakli/Project all/Django/Python-and-Data-Science-through-the-Qwasar-platform/Data_Science_Qwasar_Platform/My_M_And_A/Data/only_wood_customer_us_1.csv'):
+    if len(param_1.getvalue()) > len('Data/only_wood_customer_us_1.csv'):
         df_1_raw = pd.read_csv(param_1)
     else:
         df_1_raw = pd.read_csv(param_1.getvalue())
@@ -26,7 +26,7 @@ def first_ds(param_1):
 
 def second_ds(param_1):
     column_names = ['Age', 'City', 'Gender', 'FullName', 'Email']
-    if len(param_1.getvalue()) > len('/Users/student/Desktop/Kerakli/Project all/Django/Python-and-Data-Science-through-the-Qwasar-platform/Data_Science_Qwasar_Platform/My_M_And_A/Data/only_wood_customer_us_2.csv'):
+    if len(param_1.getvalue()) > len('Data/only_wood_customer_us_2.csv'):
         df_2_raw = pd.read_csv(param_1,  sep=';', names=column_names)
     else:
         df_2_raw = pd.read_csv(param_1.getvalue(),  sep=';', names=column_names)
@@ -44,7 +44,7 @@ def second_ds(param_1):
 
 
 def third_ds(param_1):
-    if len(param_1.getvalue()) > len('/Users/student/Desktop/Kerakli/Project all/Django/Python-and-Data-Science-through-the-Qwasar-platform/Data_Science_Qwasar_Platform/My_M_And_A/Data/only_wood_customer_us_3.csv'):
+    if len(param_1.getvalue()) > len('Data/only_wood_customer_us_3.csv'):
         filename = (param_1.getvalue()).split('\n')
         lst = []
         for row in filename:
@@ -79,5 +79,5 @@ def my_m_and_a(dataset_1, dataset_2, dataset_3):
 
 
 if __name__ == '__main__':
-    merged_csv = my_m_and_a(StringIO('/Users/student/Desktop/Kerakli/Project all/Django/Python-and-Data-Science-through-the-Qwasar-platform/Data_Science_Qwasar_Platform/My_M_And_A/Data/only_wood_customer_us_1.csv'), StringIO('/Users/student/Desktop/Kerakli/Project all/Django/Python-and-Data-Science-through-the-Qwasar-platform/Data_Science_Qwasar_Platform/My_M_And_A/Data/only_wood_customer_us_2.csv'), StringIO('/Users/student/Desktop/Kerakli/Project all/Django/Python-and-Data-Science-through-the-Qwasar-platform/Data_Science_Qwasar_Platform/My_M_And_A/Data/only_wood_customer_us_3.csv')).to_csv(index=False)
+    merged_csv = my_m_and_a(StringIO('Data/only_wood_customer_us_1.csv'), StringIO('Data/only_wood_customer_us_2.csv'), StringIO('/Data/only_wood_customer_us_3.csv')).to_csv(index=False)
     my_ds_babel.csv_to_sql(StringIO(merged_csv), 'plastic_free_boutique.db', 'customers')
