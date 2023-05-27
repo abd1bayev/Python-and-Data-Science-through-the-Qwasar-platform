@@ -1,7 +1,7 @@
-# Welcome to my Python and Data Science projects.
-***
+# Welcome to My Python and Data Science Projects
 
-<img src="https://komarev.com/ghpvc/?username=abd1bayev&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="abd1bayev" />
+[![Profile Views](https://komarev.com/ghpvc/?username=abd1bayev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/abd1bayev)
+
 
 
 ## Description
